@@ -1,0 +1,3 @@
+[submodule "src/react-redux-dotnetcore"]
+	path = src/react-redux-dotnetcore
+	url = https://github.com/brendenvogt/react-redux-dotnetcore.git
